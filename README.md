@@ -28,7 +28,7 @@ We have already created "Scrum Team - Billing and Revenue Management" group in C
 **1. BackOffice:** Any user responsible for bill generation and bill tracking and they should be able to generate and send bills
 to payee and keep the historical records.
 
-**2. Patients:** Anyone who visit a doctor's office with the intention to get treatment for his/her ailment and recieve's 
+**2. Patient:** Anyone who visit a doctor's office with the intention to get treatment for his/her ailment and recieve's 
 billing information based on their encounters; Patient can also see information/details about their prior visits.
 
 **3. Insurance Company:** Insurer responsible for paying off patient's bill payment. Insurance company should recieve billing 
