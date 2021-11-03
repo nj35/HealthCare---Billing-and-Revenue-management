@@ -47,4 +47,15 @@ public class Procedure {
     public void setDescription(String description) {
         this.description = description;
     }
+
+    @Override
+    public String toString() {
+        return "Procedure{" +
+                "id='" + id + '\'' +
+                ", codingType='" + codingType + '\'' +
+                ", diagnosis=" + diagnosis +
+                ", code='" + code + '\'' +
+                ", description='" + description + '\'' +
+                '}';
+    }
 }

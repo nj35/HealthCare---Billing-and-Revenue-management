@@ -30,4 +30,13 @@ public class ProcedureRate {
     public void setRate(int rate) {
         this.rate = rate;
     }
+
+    @Override
+    public String toString() {
+        return "ProcedureRate{" +
+                "id='" + id + '\'' +
+                ", procedureId='" + procedureId + '\'' +
+                ", rate=" + rate +
+                '}';
+    }
 }
